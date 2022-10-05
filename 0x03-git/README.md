@@ -1,1 +1,1 @@
-MediCoder
+MEDIcoder
